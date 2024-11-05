@@ -1,4 +1,4 @@
-readme file for piano - upload video and mention it in this.
+upload video in youtube and provide that link here.
 # Gesture-Controlled Piano System using OpenCV and MediaPipe
 
 ## Overview
